@@ -1,0 +1,41 @@
+.home h1 {
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #F24194;
+}
+
+.post {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #3DADF2;
+}
+
+.post h2,
+.post p {
+  margin-bottom: 1rem;
+}
+
+.post h2::first-letter {
+  text-transform: uppercase;
+}
+
+.btn {
+  background-color: #F2F2F2;
+  color: #F24194;
+  border: 3px solid #3DADF2;
+  opacity: 1;
+  padding: 0.5rem 1rem;
+  border-radius: 2rem;
+  max-width: 70px;
+  text-align: center;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  color: #F2F2F2;
+  background-color: #5A0D83;
+}
