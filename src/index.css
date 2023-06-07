@@ -5,8 +5,8 @@
 }
 
 body{
-  background-color: #5A0D83;
-  color: #F2F2F2;
+  background-color: #fcfcfc;
+  color: #000000;
 }
 
 ul {
@@ -15,7 +15,7 @@ ul {
 
 a{
   text-decoration: none;
-  color: #F35D9C;
+  color: #F2F2F2;
   opacity: 0.7;
   transition: 0.3s;
 }
