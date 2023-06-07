@@ -2,8 +2,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 5rem 5rem;
-  background-color: #F2F2F2;
+  padding: 2rem 2rem;
+  background-image: linear-gradient(45deg, #6610f2, #F24194);
 }
 .navbar h2 a {
   opacity: 1;
@@ -14,9 +14,9 @@
 }
 .new-btn {
   font-weight: bold;
-  border: 3px solid #3DADF2;
+  border: 10px solid #6610f2;
   padding: 0.5rem 1rem;
-  border-radius: 3rem;
+  border-radius: 50%;
   opacity: 1;
 }
 
